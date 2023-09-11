@@ -1,2 +1,2 @@
 # Randos
-A random compilation of functions I like
+A random compilation of python scripts I like
